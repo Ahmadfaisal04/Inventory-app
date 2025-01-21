@@ -115,7 +115,7 @@ Berikut adalah teknologi yang digunakan dalam pengembangan aplikasi ini:
 ### Scan QR Code
 
 ![Scan QR1](./public/images/ScanQR1.png)
-![Scan QR2](./public/images/ScanQR2.png))
+![Scan QR2](./public/images/ScanQR2.jpeg))
 
 ### Dark Mode
 
