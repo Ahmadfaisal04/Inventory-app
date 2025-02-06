@@ -2,7 +2,7 @@
 
 Aplikasi manajemen inventaris barang. Ini adalah produk pra proposal
 
-# Anggota Kelompok Produk InventoryApp
+# Anggota TIM Produk InventoryApp
    1. Ahmad Faisal	/ 105841100121 / Backend
    2. Magfiratul Jannah	/ 105841102421 / Frontend
    3. Suandi Aritmawijaya	/ 105841102921 / Frontend
